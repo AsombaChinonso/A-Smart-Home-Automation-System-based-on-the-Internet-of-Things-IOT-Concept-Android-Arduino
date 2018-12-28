@@ -14,8 +14,11 @@ on the android Opertaing System software, in further words the application is an
 pls kindly see the BEME in the project document
 
 # For further enquires, u can mail me @
->chukuwnonso1995@gmail.com
+>asomba505@gmail.com
 
+### OR Find me at : https://acemmanuel.my-free.website/about-me
+
+Thanks
 
 
  
