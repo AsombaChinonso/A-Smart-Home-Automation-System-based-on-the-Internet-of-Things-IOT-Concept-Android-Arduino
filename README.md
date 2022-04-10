@@ -2,7 +2,7 @@
 Undergraduate paper and project on "A Smart Home Automation System based on the Internet of Things (IOT) Concept" . This project comprises both a Software & Hardware back-end.
 
 # The software was written 
-on the android Opertaing System. The android application developed using the MIT App Inventor.
+on the android Opertaing System. The android application was developed using the MIT App Inventor.
 
 # The Hardware backend was designed using 
 > 1. The Arduino Uno
