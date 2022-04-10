@@ -13,9 +13,7 @@ pls kindly see the BEME in the project document
 # For further enquires, u can mail me @
 >asomba505@gmail.com
 
-### OR Find me at : asomba505@gmail.com
-
-Thanks
+Many Thanks.
 
 
  
